@@ -1,0 +1,122 @@
+2024-01-28 23:01:218 INFO  Homepage :27 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (9795b31cf4d7a1a12c1acc70e9173541)] -> id: onetrust-accept-btn-handler]
+2024-01-28 23:01:41 INFO  Homepage :22 - Clicking on login Link : Proxy element for: DefaultElementLocator 'By.cssSelector: a[title='Login']'
+2024-01-28 23:01:716 INFO  Homepage :27 - Clicking on acceptCookies : Proxy element for: DefaultElementLocator 'By.linkText: Accept All'
+2024-01-28 23:01:213 INFO  Homepage :27 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (7a9dafd5b0fe614f72672e6bccedd845)] -> class name: accept-btn-container]
+2024-01-28 23:01:557 INFO  Homepage :22 - Clicking on login Link : Proxy element for: DefaultElementLocator 'By.cssSelector: a[title='Login']'
+2024-01-28 23:01:113 INFO  Homepage :27 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (89404b4a9ae9535ae05a0e61a7e9aaa7)] -> class name: accept-btn-container]
+2024-01-28 23:01:893 INFO  Homepage :22 - Clicking on login Link : [[ChromeDriver: chrome on windows (89404b4a9ae9535ae05a0e61a7e9aaa7)] -> xpath: //a[normalize-space()='Log In']]
+2024-01-28 23:01:604 INFO  Homepage :27 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (60c2b57bcd40bead7489cfb489a2b67e)] -> class name: accept-btn-container]
+2024-01-28 23:01:895 INFO  Homepage :22 - Clicking on login Link : [[ChromeDriver: chrome on windows (60c2b57bcd40bead7489cfb489a2b67e)] -> xpath: //a[contains(text(),'Log In')]]
+2024-01-28 23:01:370 INFO  Homepage :27 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (fdc4d54dda4606ad28e9ab2bfe4ee321)] -> class name: accept-btn-container]
+2024-01-28 23:01:730 INFO  Homepage :22 - Clicking on login Link : [[ChromeDriver: chrome on windows (fdc4d54dda4606ad28e9ab2bfe4ee321)] -> xpath: //a[contains(text(),'Log In')]]
+2024-01-28 23:01:20 INFO  Homepage :18 - Getting text from : Proxy element for: DefaultElementLocator 'By.xpath: //a[@class='active']'
+2024-01-30 09:01:311 INFO  Homepage :31 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (d71fb76dfe5661be0a2d6c806e2c98a3)] -> class name: accept-btn-container]
+2024-01-30 09:01:733 INFO  Homepage :26 - Clicking on login Link : [[ChromeDriver: chrome on windows (d71fb76dfe5661be0a2d6c806e2c98a3)] -> xpath: //a[contains(text(),'Log In')]]
+2024-01-30 09:01:209 INFO  Homepage :68 - Getting text from : Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='sign-in-and-up-tabs']//a[normalize-space()='Log In']'
+2024-01-30 09:01:436 INFO  Homepage :31 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (81925ac7905ce8636bae1d4ac3baf3f8)] -> class name: accept-btn-container]
+2024-01-30 09:01:846 INFO  Homepage :26 - Clicking on login Link : [[ChromeDriver: chrome on windows (81925ac7905ce8636bae1d4ac3baf3f8)] -> xpath: //a[normalize-space()='Log In']]
+2024-01-30 09:01:86 INFO  Homepage :68 - Getting text from : Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='sign-in-and-up-tabs']//a[normalize-space()='Log In']'
+2024-01-30 09:01:734 INFO  Homepage :31 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (dff3eb5dbc052677a2ab2268f4bd3adb)] -> class name: accept-btn-container]
+2024-01-30 09:01:22 INFO  Homepage :35 - Clicking on login Link : [[ChromeDriver: chrome on windows (dff3eb5dbc052677a2ab2268f4bd3adb)] -> xpath: //a[normalize-space()='Sign Up']]
+2024-01-30 09:01:192 INFO  Homepage :31 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (9b78af48f34d269c5d61775ea371aa48)] -> class name: accept-btn-container]
+2024-01-30 09:01:22 INFO  Homepage :35 - Clicking on login Link : [[ChromeDriver: chrome on windows (9b78af48f34d269c5d61775ea371aa48)] -> xpath: //a[normalize-space()='Sign Up']]
+2024-01-30 09:01:781 INFO  Homepage :32 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (4f844c22fb98075985b4d9a171484d38)] -> id: onetrust-accept-btn-handler]
+2024-01-30 09:01:80 INFO  Homepage :27 - Clicking on login Link : [[ChromeDriver: chrome on windows (4f844c22fb98075985b4d9a171484d38)] -> xpath: //a[@class='site-main-nav__item--link bvs-link'][normalize-space()='Bingo']]
+2024-01-30 09:01:283 INFO  Homepage :37 - Clicking on acceptCookies : Proxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Online Bingo']'
+2024-01-30 09:01:683 INFO  Homepage :32 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (3e375a4737e6408532fd2b2980c8faab)] -> id: onetrust-accept-btn-handler]
+2024-01-30 09:01:68 INFO  Homepage :27 - Clicking on login Link : [[ChromeDriver: chrome on windows (3e375a4737e6408532fd2b2980c8faab)] -> xpath: //a[@class='site-main-nav__item--link bvs-link'][normalize-space()='Bingo']]
+2024-01-30 09:01:278 INFO  Homepage :37 - Clicking on acceptCookies : Proxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Online Bingo']'
+2024-01-30 09:01:465 INFO  Homepage :30 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (412a4a96ea41074dbabf2d636f6021fa)] -> id: onetrust-accept-btn-handler]
+2024-01-30 09:01:606 INFO  Homepage :25 - Clicking on login Link : [[ChromeDriver: chrome on windows (412a4a96ea41074dbabf2d636f6021fa)] -> xpath: //a[@class='site-main-nav__item--link bvs-link'][normalize-space()='Bingo']]
+2024-01-30 09:01:881 INFO  Homepage :17 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (412a4a96ea41074dbabf2d636f6021fa)] -> xpath: //h1[normalize-space()='Online Bingo']]
+2024-01-30 10:01:768 INFO  Homepage :34 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (610b1b85897d369b59b90a97eb160d8b)] -> id: onetrust-accept-btn-handler]
+2024-01-30 10:01:47 INFO  Homepage :39 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (610b1b85897d369b59b90a97eb160d8b)] -> xpath: //input[@placeholder='Search']]
+2024-01-30 10:01:373 INFO  Homepage :34 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (0aa04908aa0d1abf4467a20104ca2473)] -> id: onetrust-accept-btn-handler]
+2024-01-30 10:01:696 INFO  Homepage :39 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (0aa04908aa0d1abf4467a20104ca2473)] -> xpath: //input[@placeholder='Search']]
+2024-01-30 10:01:793 INFO  Homepage :39 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (47912893990f970b3dd14190dda196d2)] -> id: onetrust-accept-btn-handler]
+2024-01-30 10:01:106 INFO  Homepage :54 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (47912893990f970b3dd14190dda196d2)] -> xpath: (//div[@class='casino-game-title casino-game-title--large'][normalize-space()='Heart Bonanza Bingo'])[1]]
+2024-01-30 10:01:873 INFO  Homepage :41 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (96046225893f2e49e92a2f7516f47d73)] -> id: onetrust-accept-btn-handler]
+2024-01-30 10:01:353 INFO  Homepage :55 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (96046225893f2e49e92a2f7516f47d73)] -> xpath: (//img[contains(@alt,'Heart Bingo RG Banner promotion')])[2]]
+2024-01-30 10:01:131 INFO  Homepage :31 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (3771ce4f6b92b37777aa0c946ea3f56d)] -> id: onetrust-accept-btn-handler]
+2024-01-30 10:01:491 INFO  Homepage :26 - Clicking on login Link : [[ChromeDriver: chrome on windows (3771ce4f6b92b37777aa0c946ea3f56d)] -> xpath: //a[@class='site-main-nav__item--link bvs-link'][normalize-space()='Bingo']]
+2024-01-30 10:01:692 INFO  Homepage :17 - Getting Text online Bingo : Proxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Online Bingo']'
+2024-01-30 10:01:366 INFO  Homepage :31 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (d508910db940c11d68f0af181a2ac309)] -> id: onetrust-accept-btn-handler]
+2024-01-30 10:01:692 INFO  Homepage :31 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (87f24345dd9d0d65c571874727ac09c0)] -> id: onetrust-accept-btn-handler]
+2024-01-30 10:01:776 INFO  Homepage :31 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (58debf0bafc0c55b179e479ec7f76f56)] -> id: onetrust-accept-btn-handler]
+2024-01-30 10:01:200 INFO  Homepage :35 - Clicking on login Link : [[ChromeDriver: chrome on windows (58debf0bafc0c55b179e479ec7f76f56)] -> xpath: //a[normalize-space()='Sign Up']]
+2024-01-30 10:01:690 INFO  Homepage :35 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (a8b75327eed5fca574e3fe8e2897bed2)] -> id: onetrust-accept-btn-handler]
+2024-01-30 10:01:507 INFO  Homepage :26 - Getting Text online Slots : Proxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Online Slots']'
+2024-01-30 10:01:150 INFO  Homepage :35 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (56dde901db01a6a866dd98bcabe1503b)] -> id: onetrust-accept-btn-handler]
+2024-01-30 10:01:916 INFO  Homepage :26 - Getting Text online Slots : Proxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Online Slots']'
+2024-01-30 10:01:561 INFO  Homepage :34 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (e5365f1785582471dcf89f0502c68c5d)] -> id: onetrust-accept-btn-handler]
+2024-01-30 10:01:935 INFO  Homepage :26 - Getting Text online Slots : Proxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Online Slots']'
+2024-01-30 10:01:303 INFO  Homepage :34 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (ca67fa8455d2580705d77c118dc58970)] -> id: onetrust-accept-btn-handler]
+2024-01-30 10:01:836 INFO  Homepage :26 - Getting Text online Slots : [[ChromeDriver: chrome on windows (ca67fa8455d2580705d77c118dc58970)] -> css selector: h1[class='bvs-header']]
+2024-01-30 10:01:714 INFO  Homepage :34 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (924f7822fc402a3a07266b181dfe5332)] -> id: onetrust-accept-btn-handler]
+2024-01-30 10:01:65 INFO  Homepage :26 - Getting Text online Slots : Proxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Online Slots']'
+2024-01-30 10:01:491 INFO  Homepage :34 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (8cbd355ada2df0024d6dd72bf01c416b)] -> id: onetrust-accept-btn-handler]
+2024-01-30 10:01:188 INFO  Homepage :26 - Getting Text online Slots : Proxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Online Slots']'
+2024-01-30 10:01:729 INFO  Homepage :42 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (2666aecb5da7f202dff1a29e69831560)] -> id: onetrust-accept-btn-handler]
+2024-01-30 10:01:95 INFO  Homepage :37 - Clicking on login Link : [[ChromeDriver: chrome on windows (2666aecb5da7f202dff1a29e69831560)] -> xpath: //a[normalize-space()='Live Casino']]
+2024-01-30 10:01:310 INFO  Homepage :18 - Getting Text online Bingo : Proxy element for: DefaultElementLocator 'By.xpath: //h2[normalize-space()='Live Bingo']'
+2024-01-30 10:01:204 INFO  Homepage :42 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (16bf7f653eec2c0c0a7ecb693d771a3c)] -> id: onetrust-accept-btn-handler]
+2024-01-30 10:01:523 INFO  Homepage :32 - Clicking on login Link : [[ChromeDriver: chrome on windows (16bf7f653eec2c0c0a7ecb693d771a3c)] -> xpath: //a[@class='site-main-nav__item--link bvs-link'][normalize-space()='Bingo']]
+2024-01-30 10:01:719 INFO  Homepage :18 - Getting Text online Bingo : Proxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Online Bingo']'
+2024-01-30 11:01:707 INFO  Homepage :42 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (952843052c0c3f43d616cbf0da711938)] -> id: onetrust-accept-btn-handler]
+2024-01-30 11:01:139 INFO  Homepage :32 - Clicking on login Link : [[ChromeDriver: chrome on windows (952843052c0c3f43d616cbf0da711938)] -> xpath: //a[@class='site-main-nav__item--link bvs-link'][normalize-space()='Bingo']]
+2024-01-30 11:01:133 INFO  Homepage :42 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (5a57495020103b39d243e589ac54bec3)] -> id: onetrust-accept-btn-handler]
+2024-01-30 11:01:447 INFO  Homepage :32 - Clicking on login Link : [[ChromeDriver: chrome on windows (5a57495020103b39d243e589ac54bec3)] -> xpath: //a[@class='site-main-nav__item--link bvs-link'][normalize-space()='Bingo']]
+2024-01-30 11:01:682 INFO  Homepage :42 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (86f27727d051b1df403dcd1938d674c1)] -> id: onetrust-accept-btn-handler]
+2024-01-30 11:01:355 INFO  Homepage :32 - Clicking on login Link : [[ChromeDriver: chrome on windows (86f27727d051b1df403dcd1938d674c1)] -> xpath: //a[@class='site-main-nav__item--link bvs-link'][normalize-space()='Bingo']]
+2024-01-30 11:01:896 INFO  Homepage :18 - Getting Text online Bingo : All Rooms
+2024-01-30 11:01:500 INFO  Homepage :42 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (bac0df227805fbcb25d8aa3d3140cecb)] -> id: onetrust-accept-btn-handler]
+2024-01-30 11:01:805 INFO  Homepage :37 - Clicking on login Link : [[ChromeDriver: chrome on windows (bac0df227805fbcb25d8aa3d3140cecb)] -> xpath: //a[normalize-space()='Live Casino']]
+2024-01-30 11:01:22 INFO  Homepage :18 - Getting Text online Bingo : Proxy element for: DefaultElementLocator 'By.xpath: //h2[normalize-space()='Live Bingo']'
+2024-01-31 11:01:520 INFO  Homepage :36 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (7040f95e33ddd681f5340e71a4c3e0ca)] -> id: onetrust-accept-btn-handler]
+2024-01-31 11:01:948 INFO  Homepage :42 - Clicking on login Link : [[ChromeDriver: chrome on windows (7040f95e33ddd681f5340e71a4c3e0ca)] -> xpath: //a[normalize-space()='Log In']]
+2024-01-31 13:01:623 INFO  Homepage :36 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (3860125859bf9d28fabc62cfb5c5647d)] -> id: onetrust-accept-btn-handler]
+2024-01-31 13:01:31 INFO  Homepage :42 - Clicking on login Link : [[ChromeDriver: chrome on windows (3860125859bf9d28fabc62cfb5c5647d)] -> link text: Log In]
+2024-01-31 13:01:240 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (82ad3e2a37a21bbdbaa8d91a08d29597)] -> id: onetrust-accept-btn-handler]
+2024-01-31 13:01:603 INFO  Homepage :39 - Clicking on login Link : [[ChromeDriver: chrome on windows (82ad3e2a37a21bbdbaa8d91a08d29597)] -> link text: Log In]
+2024-01-31 13:01:861 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (5f8ec6c60aa6312f51c297840ff89b4a)] -> id: onetrust-accept-btn-handler]
+2024-01-31 13:01:146 INFO  Homepage :39 - Clicking on login Link : [[ChromeDriver: chrome on windows (5f8ec6c60aa6312f51c297840ff89b4a)] -> link text: Log In]
+2024-01-31 13:01:149 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (54fc3b12604d163fe826dfb2548eafd0)] -> id: onetrust-accept-btn-handler]
+2024-01-31 13:01:619 INFO  Homepage :39 - Clicking on login Link : [[ChromeDriver: chrome on windows (54fc3b12604d163fe826dfb2548eafd0)] -> link text: Log In]
+2024-01-31 13:01:548 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (affc99b7b8108cb2d3a675637b186b92)] -> id: onetrust-accept-btn-handler]
+2024-01-31 13:01:908 INFO  Homepage :39 - Clicking on login Link : [[ChromeDriver: chrome on windows (affc99b7b8108cb2d3a675637b186b92)] -> xpath: //a[normalize-space()='Log In']]
+2024-01-31 13:01:979 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (9e2a8382785963b679ee7d5f1b986dab)] -> id: onetrust-accept-btn-handler]
+2024-01-31 13:01:752 INFO  Homepage :39 - Clicking on login Link : Proxy element for: DefaultElementLocator 'By.linkText: Sign Up'
+2024-01-31 14:01:354 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (2b4beac08848f2194ed32bc349430e32)] -> id: onetrust-accept-btn-handler]
+2024-01-31 14:01:235 INFO  Homepage :39 - Clicking on login Link : Proxy element for: DefaultElementLocator 'By.linkText: Sign Up'
+2024-01-31 14:01:934 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (de96a076d2cda4cca6eb0828cecfe494)] -> id: onetrust-accept-btn-handler]
+2024-01-31 14:01:761 INFO  Homepage :39 - Clicking on login Link : [[ChromeDriver: chrome on windows (de96a076d2cda4cca6eb0828cecfe494)] -> xpath: //a[normalize-space()='Sign Up']]
+2024-01-31 14:01:425 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (a8839dfe438b9b1fbe88226c502e4f2c)] -> id: onetrust-accept-btn-handler]
+2024-01-31 14:01:252 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (bacc2341ef142b82e56e8ba4d95db1b9)] -> id: onetrust-accept-btn-handler]
+2024-01-31 14:01:637 INFO  Homepage :39 - Clicking on login Link : [[ChromeDriver: chrome on windows (bacc2341ef142b82e56e8ba4d95db1b9)] -> xpath: //a[normalize-space()='Sign Up']]
+2024-01-31 14:01:334 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (d41038ebd1520a15a01de0649c67f3de)] -> id: onetrust-accept-btn-handler]
+2024-01-31 21:01:436 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (0a100741f48483b0a7e947950dd63adc)] -> id: onetrust-accept-btn-handler]
+2024-01-31 21:01:925 INFO  Homepage :39 - Clicking on login Link : [[ChromeDriver: chrome on windows (0a100741f48483b0a7e947950dd63adc)] -> link text: Log In]
+2024-01-31 21:01:577 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (1aedce815ee83e3e69fa1590e7f07c42)] -> id: onetrust-accept-btn-handler]
+2024-01-31 21:01:902 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (26e280a3565ec444598a719d8c40fc5d)] -> id: onetrust-accept-btn-handler]
+2024-01-31 21:01:333 INFO  Homepage :39 - Clicking on login Link : [[ChromeDriver: chrome on windows (26e280a3565ec444598a719d8c40fc5d)] -> link text: Log In]
+2024-01-31 21:01:432 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (be6709f9fc71a1ee80688982a36f4da9)] -> id: onetrust-accept-btn-handler]
+2024-02-01 18:02:847 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (099c35112712f0303941a7dcb4f9c563)] -> id: onetrust-accept-btn-handler]
+2024-02-01 18:02:223 INFO  Homepage :39 - Clicking on login Link : [[ChromeDriver: chrome on windows (099c35112712f0303941a7dcb4f9c563)] -> link text: Log In]
+2024-02-01 18:02:285 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (c76c258d453f5c52aaee6a68aaa0a45f)] -> id: onetrust-accept-btn-handler]
+2024-02-01 20:02:516 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (a7ff636a2f3a8b4a917fdad91ebb478d)] -> id: onetrust-accept-btn-handler]
+2024-02-01 20:02:976 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (aeed4a0c15ab297588ef5d3f8a5332ac)] -> id: onetrust-accept-btn-handler]
+2024-02-01 20:02:238 INFO  Homepage :28 - Clicking on login Link : [[ChromeDriver: chrome on windows (aeed4a0c15ab297588ef5d3f8a5332ac)] -> xpath: //a[@class='site-main-nav__item--link bvs-link'][normalize-space()='Bingo']]
+2024-02-01 20:02:312 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (020b2a9cfd3bf2efb70758c08f8312ee)] -> id: onetrust-accept-btn-handler]
+2024-02-01 20:02:621 INFO  Homepage :28 - Clicking on login Link : [[ChromeDriver: chrome on windows (020b2a9cfd3bf2efb70758c08f8312ee)] -> xpath: //a[@class='site-main-nav__item--link bvs-link'][normalize-space()='Bingo']]
+2024-02-01 20:02:822 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (dbce5039cb35b52dd1c6eea0ab512cba)] -> id: onetrust-accept-btn-handler]
+2024-02-01 20:02:93 INFO  Homepage :28 - Clicking on login Link : [[ChromeDriver: chrome on windows (dbce5039cb35b52dd1c6eea0ab512cba)] -> xpath: //a[@class='site-main-nav__item--link bvs-link'][normalize-space()='Bingo']]
+2024-02-01 20:02:918 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (3d19579ebcf3d8962d20fe25e97f758f)] -> id: onetrust-accept-btn-handler]
+2024-02-01 20:02:341 INFO  Homepage :28 - Clicking on login Link : Proxy element for: DefaultElementLocator 'By.cssSelector: li[class='section site-main-nav__item selected'] a[class='site-main-nav__item--link bvs-link']'
+2024-02-01 20:02:119 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (735ae48cc1adc0ffc479796cbb5841b5)] -> id: onetrust-accept-btn-handler]
+2024-02-01 20:02:495 INFO  Homepage :28 - Clicking on login Link : Proxy element for: DefaultElementLocator 'By.cssSelector: li[class='section site-main-nav__item selected'] a[class='site-main-nav__item--link bvs-link']'
+2024-02-01 20:02:787 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (29154821ad1b2ffa1d7fe122d8d84ef8)] -> id: onetrust-accept-btn-handler]
+2024-02-01 20:02:206 INFO  Homepage :28 - Clicking on login Link : [[ChromeDriver: chrome on windows (29154821ad1b2ffa1d7fe122d8d84ef8)] -> xpath: //a[@class='site-main-nav__item--link bvs-link'][normalize-space()='Bingo']]
+2024-02-01 20:02:848 INFO  Homepage :18 - Getting Text online Bingo : Online Bingo
+2024-02-01 20:02:110 INFO  Homepage :33 - Clicking on acceptCookies : [[ChromeDriver: chrome on windows (bbe3858ac9cae3d747e0f2c61a759564)] -> id: onetrust-accept-btn-handler]
+2024-02-01 20:02:551 INFO  Homepage :28 - Clicking on login Link : [[ChromeDriver: chrome on windows (bbe3858ac9cae3d747e0f2c61a759564)] -> xpath: //a[@class='site-main-nav__item--link bvs-link'][normalize-space()='Bingo']]
+2024-02-01 20:02:225 INFO  Homepage :18 - Getting Text online Bingo : Online Bingo
