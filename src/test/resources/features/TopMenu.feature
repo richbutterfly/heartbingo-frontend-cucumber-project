@@ -1,5 +1,5 @@
 Feature: Top menu test
-  As a user, I want to check top menu options on virgin games website
+  As a user, I want to check top menu options on website
 
   Background: I am on homepage
     And       I click on Accept all cookies
