@@ -1,5 +1,5 @@
 Feature: Login Test
-  As a user, I want to login on virgin games website
+  As a user, I want to login on website
 
   Background: I am on homepage
     And       I click on Accept all cookies
